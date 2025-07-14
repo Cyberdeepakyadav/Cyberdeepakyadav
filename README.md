@@ -1,21 +1,21 @@
-# 💫 Hi 👋, I'm Anish Raj
+# 💫 Hi 👋, I'm Deepak Yadav
 **Full Stack Developer 🧑‍💻 || Hackathon Winner 🏆 || Android Developer || Web Developer || Software Developer || TypeScript || Next.js || DSA || C++ || Java || JavaScript || React || MongoDB || Express || Node.js ||**
 
-Email Me 👉 ✉️ **anishkumar9905287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **info@cyberrakhwala.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** self
 - 🌱 **I’m currently learning:** AI/ML, Kubernetes
 - 👯 **I’m looking to collaborate on:** SRPS AI HYBRDE SCHOOL
 - 🤔 **I’m looking for help with:** ___________
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** anishkumar9905287@gmail.com
-- 😄 **Pronouns:** Anish Sir
+- 📫 **How to reach me:**info@cyberrakhwala.com
+- 😄 **Pronouns:** Deepak Yadav
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=buildwithanish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🔗 I am a Software Engineer. 😊😊
 
-[![Anish Raj YouTube Channel](https://img.shields.io/badge/YouTube-Anish%20Raj-red?logo=youtube&logoColor=white)](https://www.youtube.com) [![Anish Raj Instagram](https://img.shields.io/badge/Instagram-Anish%20Raj-pink?logo=instagram&logoColor=white)](https://www.instagram.com) [![Anish Raj Facebook](https://img.shields.io/badge/Facebook-Anish%20Raj-blue?logo=facebook&logoColor=white)](https://www.facebook.com) [![Anish Raj Twitter](https://img.shields.io/badge/Twitter-Anish%20Raj-lightblue?logo=twitter&logoColor=white)](https://twitter.com)
+[![Deepak Yadav YouTube Channel](https://img.shields.io/badge/YouTube-Deepak%20Yadav-red?logo=youtube&logoColor=white)]([https://www.youtube.com](https://www.youtube.com/@Cyberdeepakyadav)) [![Deepak Yadav Instagram](https://img.shields.io/badge/Instagram-Anish%20Raj-pink?logo=instagram&logoColor=white)]([https://www.instagram.com](https://www.instagram.com/cybersquad_jaihind?igshid=OGQ5ZDc2ODk2ZA==)) [![Deepak Yadav Facebook](https://img.shields.io/badge/Facebook-Anish%20Raj-blue?logo=facebook&logoColor=white)]([https://www.facebook.com](https://www.facebook.com/Cyberdeepakyadav?mibextid=LQQJ4d)) [![Deepak Yadav Twitter](https://img.shields.io/badge/Twitter-Anish%20Raj-lightblue?logo=twitter&logoColor=white)]([https://twitter.com](https://x.com/Cybersquad_jai?t=nJaN3dKVAj_lU-4Fh7sHQg&s=09))
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **anishkumar9905287@gmail.com** For Collaboration/Project o
 </div>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anishteam_86133) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsanish95) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its__anish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-developer-3b3598272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishkumar9905287@gmail.com ) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cybersquad) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/Cyberdeepakyadav?mibextid=LQQJ4d)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cybersquad_jaihind?igshid=OGQ5ZDc2ODk2ZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-yadav-8b57a6292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@cyberrakhwala.com ) 
 
 
 <!-- Typing Intro with AI/ML Vibe --> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anish+Raj;Full+Stack+Developer+%7C+AI%2FML+Explorer;Building+AI-Powered+Applications;Tech+Innovator+from+India" alt="Typing SVG" /> </div> <!-- Profile Views --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=buildwithanish&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" /> </p> <!-- GitHub Trophies --> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=buildwithanish&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </div>
@@ -44,13 +44,13 @@ Passionate about developing AI-driven web applications and exploring the world o
 Computer Vision, Natural Language Processing (NLP), and Model Optimization for real-world AI applications.
 
 💼 Portfolio:
-Check out my latest projects and accomplishments here: https://anish.cyberrakhwala.com/
+Check out my latest projects and accomplishments here: https://cyberrakhwala.com/
 
 💬 Ask Me About:
 Anything related to AI/ML, React, Tailwind CSS, HTML5, and CSS3.
 
 📫 Contact Me:
-anishkumar9905287@gmail.com
+info@cyberrakhwala.com
 
 ⚡ Fun Fact:
 I love to juggle between AI/ML research and full-stack development, often imagining how AI can automate the web! ⚡🤯
