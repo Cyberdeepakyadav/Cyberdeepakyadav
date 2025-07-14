@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **info@cyberrakhwala.com** For Collaboration/Project or Any
 
 - 🔭 **I’m currently working on:** self
 - 🌱 **I’m currently learning:** AI/ML, Kubernetes
-- 👯 **I’m looking to collaborate on:** SRPS AI HYBRDE SCHOOL
+- 👯 **I’m looking to collaborate on:**.......
 - 🤔 **I’m looking for help with:** ___________
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**info@cyberrakhwala.com
@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **info@cyberrakhwala.com** For Collaboration/Project or Any
 ![](https://github-profile-trophy.vercel.app/?username=buildwithanish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🔗 I am a Software Engineer. 😊😊
 
-[![Deepak Yadav YouTube Channel](https://img.shields.io/badge/YouTube-Deepak%20Yadav-red?logo=youtube&logoColor=white)]([https://www.youtube.com](https://www.youtube.com/@Cyberdeepakyadav)) [![Deepak Yadav Instagram](https://img.shields.io/badge/Instagram-Anish%20Raj-pink?logo=instagram&logoColor=white)]([https://www.instagram.com](https://www.instagram.com/cybersquad_jaihind?igshid=OGQ5ZDc2ODk2ZA==)) [![Deepak Yadav Facebook](https://img.shields.io/badge/Facebook-Anish%20Raj-blue?logo=facebook&logoColor=white)]([https://www.facebook.com](https://www.facebook.com/Cyberdeepakyadav?mibextid=LQQJ4d)) [![Deepak Yadav Twitter](https://img.shields.io/badge/Twitter-Anish%20Raj-lightblue?logo=twitter&logoColor=white)]([https://twitter.com](https://x.com/Cybersquad_jai?t=nJaN3dKVAj_lU-4Fh7sHQg&s=09))
+[![Deepak Yadav YouTube Channel](https://img.shields.io/badge/YouTube-Deepak%20Yadav-red?logo=youtube&logoColor=white)]([https://www.youtube.com](https://www.youtube.com/@Cyberdeepakyadav)) [![Deepak Yadav Instagram](https://img.shields.io/badge/Instagram-Anish%20Raj-pink?logo=instagram&logoColor=white)]([https://www.instagram.com](https://www.instagram.com/cybersquad_jaihind?igshid=OGQ5ZDc2ODk2ZA==)) [![Deepak Yadav Facebook](https://img.shields.io/badge/Facebook-Deepak%20Yadav-blue?logo=facebook&logoColor=white)]([https://www.facebook.com](https://www.facebook.com/Cyberdeepakyadav?mibextid=LQQJ4d)) [![Deepak Yadav Twitter](https://img.shields.io/badge/Twitter-Deepak%20Yadav-lightblue?logo=twitter&logoColor=white)]([https://twitter.com](https://x.com/Cybersquad_jai?t=nJaN3dKVAj_lU-4Fh7sHQg&s=09))
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
